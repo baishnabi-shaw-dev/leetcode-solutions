@@ -1,2 +1,2 @@
 # leetcode-solutions
-leetcode solution by baishnabi show
+leetcode solution by baishnabi shaw
