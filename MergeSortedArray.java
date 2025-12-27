@@ -22,6 +22,6 @@ class MergeSortedArray {
         s.merge(nums1, 4, nums2, 3);
         for (int x : nums1)
             System.out.print(x + " ");
-        // Output: 1 2 3 4 5 6 7 
+        // Output: 1 2 3 4 5 6 7  
     }
 }
